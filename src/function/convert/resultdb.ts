@@ -1,0 +1,7 @@
+
+class resultdb {
+
+    resultSetToArrayList = (rs) => {
+
+    };
+}

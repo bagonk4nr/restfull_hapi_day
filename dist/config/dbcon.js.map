@@ -1,0 +1,1 @@
+{"version":3,"file":"dbcon.js","sourceRoot":"","sources":["../../src/config/dbcon.ts"],"names":[],"mappings":";;AAAA,2CAA2C;AAE3C,MAAM,KAAK,GAAG;IACR,MAAM,EAAE,KAAK;IACb,OAAO,EAAE;QACN,IAAI,EAAE,WAAW;QACjB,IAAI,EAAE,MAAM;QACZ,QAAQ,EAAE,WAAW;KACvB;CACN,CAAC;AAEF,kBAAe,KAAK,CAAC"}

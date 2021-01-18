@@ -1,0 +1,1 @@
+{"version":3,"file":"routeapp.js","sourceRoot":"","sources":["../../src/routes/routeapp.ts"],"names":[],"mappings":";;AAAA,2CAAuC;AACvC,iDAA6C;AAG7C,MAAM,SAAS,GAAkB;IAC7B,EAAE,MAAM,EAAE,MAAM,EAAE,IAAI,EAAE,OAAO,EAAE,OAAO,EAAE,cAAO,EAAE;IACnD,EAAE,MAAM,EAAE,MAAM,EAAE,IAAI,EAAE,UAAU,EAAE,OAAO,EAAE,iBAAU,EAAE;CAC5D,CAAC;AAEF,kBAAe,SAAS,CAAC"}
